@@ -1,2 +1,2 @@
 # homebrew-tap
-Homebrew formulae for urFluency (brew install rburns629/tap/urfluency)
+Homebrew formulae for urFluency (brew install roburns/tap/urfluency)
